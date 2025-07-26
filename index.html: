@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Learn & Earn Crypto with R.E.A.C.H. Ventures: Beginner’s guides, kids’ coloring books, and secure wallet backups.">
+  <meta name="keywords" content="crypto education, learn crypto, XRP investing, Bitcoin guide, crypto for kids">
+  <title>R.E.A.C.H. Ventures - Learn & Earn Crypto</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <img src="https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafy…rbge" alt="R.E.A.C.H. Ventures Logo" class="logo">
+    <h1>Learn & Earn Crypto by R.E.A.C.H. Ventures</h1>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#products">Products</a>
+      <a href="#education">Education</a>
+      <a href="#partners">Partners</a>
+      <a href="#about">About</a>
+    </nav>
+  </header>
+  <section id="home" class="hero">
+    <h2>Empowering Wealth with American Spirit and Crypto Innovation</h2>
+    <p>The future of real estate and crypto begins here.</p>
+    <a href="#products" class="cta animate__animated animate__pulse">Shop Now</a>
+  </section>
+  <section id="products">
+    <h2>Shop With Crypto</h2>
+    <div class="product">
+      <img src="https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafy…ytae" alt="Beginner’s Guide Cover">
+      <h3>Beginner’s Cryptocurrency Investment Guide</h3>
+      <p>Step-by-step roadmap to confidently invest in BTC, ETH, XRP & SOL. Includes wallet setup, DCA, and profit-taking strategies.</p>
+      <a href="https://learnandearncrypto.etsy.com/listing/4313970681" class="cta">Buy on Etsy</a>
+      <a href="https://commerce.coinbase.com/checkout/f466521c-ffec-4207-ab62-3463a6343ee5" class="cta">Buy with Crypto</a>
+    </div>
+    <div class="product">
+      <img src="https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafy…4kka" alt="Crypto for Kids Cover">
+      <h3>Crypto for Kids Coloring Book</h3>
+      <p>Fun blockchain adventure for kids ages 5–10. 10 creative coloring pages that introduce crypto concepts in a magical way.</p>
+      <a href="https://learnandearncrypto.etsy.com/listing/4313285784" class="cta">Buy on Etsy</a>
+      <a href="https://commerce.coinbase.com/checkout/71344017-1e0b-4117-899e-54c0cb7009f3" class="cta">Buy with Crypto</a>
+    </div>
+    <div class="product">
+      <img src="https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafy…uw4m" alt="24 Word Seed Phrase">
+      <h3>24 Word Seed Phrase Recovery Page</h3>
+      <p>Protect your wallet with this printable 1-page PDF for 24-word backup, wallet name, email, password fields & reminders.</p>
+      <a href="https://learnandearncrypto.etsy.com/listing/4317140994" class="cta">Buy on Etsy</a>
+      <a href="https://commerce.coinbase.com/checkout/80fd4758-41fc-4729-85a2-d5712120457c" class="cta">Buy with Crypto</a>
+    </div>
+    <div class="product">
+      <img src="https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafy…lwkm" alt="12 Word Seed Phrase">
+      <h3>12 Word Seed Phrase Recovery Page</h3>
+      <p>Beginner-friendly 1-page worksheet to track wallet name, email, password, and 12 recovery words. Great for secure storage.</p>
+      <a href="https://learnandearncrypto.etsy.com/listing/4317165640" class="cta">Buy on Etsy</a>
+      <a href="https://commerce.coinbase.com/checkout/e14a6cb8-ad1f-4fe7-b1ba-5a9b4335e5de" class="cta">Buy with Crypto</a>
+    </div>
+  </section>
+  <section id="education">
+    <h2>Crypto Education Basics</h2>
+    <div class="edu-item">
+      <h3>What is Cryptocurrency?</h3>
+      <p>Cryptocurrency is digital money secured by blockchain technology. It allows for decentralized transactions without the need for traditional banks.</p>
+    </div>
+    <div class="edu-item">
+      <h3>What is Bitcoin?</h3>
+      <p>Bitcoin is the first and most recognized cryptocurrency. It acts as a store of value and enables peer-to-peer transactions globally.</p>
+    </div>
+    <div class="edu-item">
+      <h3>What is a Blockchain?</h3>
+      <p>A blockchain is a public digital ledger that records transactions across many computers. It’s secure, transparent, and unchangeable.</p>
+    </div>
+    <div class="edu-item">
+      <h3>Difference Between Bitcoin and Altcoins</h3>
+      <p>Bitcoin is the original cryptocurrency. Altcoins are all others like Ethereum, Solana, and XRP, each with unique features and purposes.</p>
+    </div>
+    <img src="https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafy…2bie" alt="Crypto Coin Cluster" class="edu-image">
+  </section>
+  <section id="partners">
+    <h2>Trusted Crypto Partners</h2>
+    <div class="partner">
+      <img src="https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafk…l72a" alt="Coinbase">
+      <p>Join Coinbase and get $30 in BTC!</p>
+      <a href="https://coinbase.com/join/SY4E5Z5?src=ios-share" class="cta">Sign Up</a>
+    </div>
+    <div class="partner">
+      <img src="https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafy…twmq" alt="Ledger">
+      <p>Get up to $20 BTC with Ledger!</p>
+      <a href="https://shop.ledger.com/pages/referral-program?referral_code=Y2SDEV69G10A0" class="cta">Shop Now</a>
+    </div>
+    <div class="partner">
+      <img src="https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafk…a6pu" alt="SecuX">
+      <p>Secure your crypto with SecuX wallets!</p>
+      <a href="https://secuxtech.com/discount/SecuX-Affiliate-OGC761?aff=486" class="cta">Shop Now</a>
+    </div>
+    <!-- Add other partners: Uphold, TradingView, OISY, etc. -->
+  </section>
+  <section id="about">
+    <h2>About R.E.A.C.H. Ventures</h2>
+    <p>Our mission is to empower wealth through education, real estate, and crypto innovation. We make crypto onboarding, learning, and growing accessible for all.</p>
+    <img src="https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafy…duti" alt="American Flag Theme">
+  </section>
+  <footer>
+    <p><a href="https://linktr.ee/reachventures">Connect with us</a> | &copy; 2025 R.E.A.C.H. Ventures</p>
+  </footer>
+  <script src="https://commerce.coinbase.com/v1/checkout.js"></script>
+</body>
+</html>
+body {
+  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: linear-gradient(to right, #003087, #b22234);
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+header .logo {
+  max-width: 200px;
+}
+header nav {
+  margin-top: 10px;
+}
+header nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+header nav a:hover {
+  text-decoration: underline;
+}
+.hero {
+  background-image: url('https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafy…lpue');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  animation: fadeIn 2s ease-in-out;
+}
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+.cta {
+  background: #003087;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin: 10px;
+  transition: background 0.3s;
+}
+.cta:hover {
+  background: #b22234;
+}
+#products, #education, #partners, #about {
+  padding: 40px 20px;
+  text-align: center;
+}
+.product, .partner, .edu-item {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.product img, .partner img, .edu-image {
+  max-width: 200px;
+  border-radius: 10px;
+}
+.edu-item {
+  max-width: 600px;
+  margin: 20px auto;
+}
+footer {
+  background: #003087;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+@media (max-width: 600px) {
+  .hero { height: 300px; }
+  .hero h2 { font-size: 1.5em; }
+  .product img, .partner img, .edu-image { max-width: 150px; }
+  header nav a { margin: 0 10px; font-size: 0.9em; }
+}
