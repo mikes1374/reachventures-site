@@ -12,7 +12,7 @@
 </head>
 <body>
   <header>
-    <img src="https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafy…rbge" alt="R.E.A.C.H. Ventures Logo" class="logo">
+    <img src="https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafybeibxg42lu6zxa7wo5mq2spxt3373qfznmfsfbixjsgt6g46ric3ciq/logo-reach-ventures-transparent.png" alt="R.E.A.C.H. Ventures Logo" class="logo">
     <h1>Learn & Earn Crypto by R.E.A.C.H. Ventures</h1>
     <nav>
       <a href="#home">Home</a>
@@ -137,7 +137,7 @@ header nav a:hover {
   text-decoration: underline;
 }
 .hero {
-  background-image: url('https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafy…lpue');
+  background-image: url('https://gray-decisive-stingray-220.mypinata.cloud/ipfs/bafybeibxg42lu6zxa7wo5mq2spxt3373qfznmfsfbixjsgt6g46ric3ciq/hero-reach-reserve-eagle.png');
   background-size: cover;
   background-position: center;
   height: 400px;
